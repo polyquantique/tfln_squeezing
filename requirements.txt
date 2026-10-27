@@ -1,0 +1,2 @@
+git+https://github.com/nquesada/snow.git
+git+https://github.com/polyquantique/needalight.git
