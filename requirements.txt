@@ -1,2 +1,4 @@
 git+https://github.com/nquesada/snow.git
 git+https://github.com/polyquantique/needalight.git
+numpy<2
+scipy<1.15
